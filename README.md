@@ -1,7 +1,7 @@
 # Hotel Booking Data Analysis
 
 ## Project Overview
-This project focuses on analyzing hotel booking data to derive insights into various aspects of hotel operations, customer behavior, and booking trends. The analysis aims to understand patterns related to booking cancellations, average daily rates, and other key metrics that can inform business decisions.
+This project dives deep into hotel booking data to uncover the real story behind reservations, cancellations, and pricing. Our goal is to truly understand customer behavior – why they book, why they cancel, and what influences their decisions. By revealing these key patterns, we aim to deliver actionable insights that directly improve how our hotels operate and help us sharpen our business strategies.
 
 ## Data Source
 The primary dataset used for this analysis is `hotel_booking.csv`, which contains detailed information about hotel reservations. Additionally, the project includes functionality to interact with a MongoDB database, specifically connecting to a database named `Python_Data_Analysis` and a collection named `Hotel Booking`, suggesting potential data ingestion or further data storage.
