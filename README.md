@@ -27,9 +27,3 @@ Key steps involved:
 While specific numerical results and detailed visualizations are generated within the Jupyter Notebook, the analysis focuses on understanding:
 * Fluctuations and trends in Average Daily Rate.
 * Factors influencing hotel booking cancellations.
-
-## How to Run
-1.  Ensure you have Python and the necessary libraries installed (`pandas`, `pymongo`, `matplotlib`, `seaborn`).
-2.  (Optional) Set up a MongoDB instance if you wish to utilize the database integration.
-3.  Place `hotel_booking.csv` in the same directory as the `Hotel data analysis.ipynb` notebook.
-4.  Run the `Hotel data analysis.ipynb` notebook using a Jupyter environment.
